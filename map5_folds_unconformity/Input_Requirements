@@ -1,0 +1,3 @@
+DEM as tiff
+Unit Contacts [base of formation] format ["X", "Y", "Formation"]
+Unit strike lines [X	Y	Z	formation	id] where ID links start and end point of line, formation ID's geology
